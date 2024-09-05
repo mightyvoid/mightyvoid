@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mightyvoid
-- 👀 I’m interested in ... FrontEnd development,Automation
-- 🌱 I’m currently learning ...ReactJs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... navinanbumech@gmail.com
+Hi There, 
+Web Dev with 4.5yrs of exp in reactJS, NodeJS.
+I like web dev, automation, making things simpler.
+
+navinanbumech@gmail.com
 
 <!---
 mightyvoid/mightyvoid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
