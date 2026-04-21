@@ -1,5 +1,5 @@
 Hi There, 
-Web Dev with 4.5yrs of exp in reactJS, NodeJS.
+Web Dev with 6+yrs of exp in reactJS, NodeJS.
 I like web dev, automation, making things simpler.
 
 navinanbumech@gmail.com
